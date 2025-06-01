@@ -8,4 +8,4 @@ PyMuPDF
 faiss-cpu
 tiktoken
 python-dotenv
-pip install --upgrade pip
+
