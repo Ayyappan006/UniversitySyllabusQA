@@ -1,5 +1,5 @@
 langchain==0.1.14
-langsmith==0.0.63
+langsmith>=0.1.17,<0.2.0
 pydantic==2.5.3
 cohere
 streamlit
