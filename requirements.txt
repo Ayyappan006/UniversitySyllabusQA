@@ -1,0 +1,9 @@
+langchain==0.1.14
+langsmith==0.0.63
+pydantic==2.5.3
+cohere
+streamlit
+PyMuPDF
+faiss-cpu
+tiktoken
+python-dotenv
