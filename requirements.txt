@@ -1,10 +1,10 @@
 
 langchain==0.1.14
-<<<<<<< HEAD
+
 langsmith>=0.1.17,<0.2.0
-=======
+
 langsmith==0.1.17
->>>>>>> 7074eda3 (Fix: Resolved dependency conflict between langchain and langsmith)
+
 pydantic==2.5.3
 
 cohere
